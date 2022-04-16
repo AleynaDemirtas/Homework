@@ -1,0 +1,16 @@
+C:\Users\Aleyna\Desktop\Projeler\Proje1\bin\Debug\net5.0\Proje1.exe
+C:\Users\Aleyna\Desktop\Projeler\Proje1\bin\Debug\net5.0\Proje1.deps.json
+C:\Users\Aleyna\Desktop\Projeler\Proje1\bin\Debug\net5.0\Proje1.runtimeconfig.json
+C:\Users\Aleyna\Desktop\Projeler\Proje1\bin\Debug\net5.0\Proje1.runtimeconfig.dev.json
+C:\Users\Aleyna\Desktop\Projeler\Proje1\bin\Debug\net5.0\Proje1.dll
+C:\Users\Aleyna\Desktop\Projeler\Proje1\bin\Debug\net5.0\ref\Proje1.dll
+C:\Users\Aleyna\Desktop\Projeler\Proje1\bin\Debug\net5.0\Proje1.pdb
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\Proje1.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\Proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\Proje1.AssemblyInfoInputs.cache
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\Proje1.AssemblyInfo.cs
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\Proje1.dll
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\ref\Proje1.dll
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\Proje1.pdb
+C:\Users\Aleyna\Desktop\Projeler\Proje1\obj\Debug\net5.0\Proje1.genruntimeconfig.cache
